@@ -1,0 +1,16 @@
+{
+    "name": "iam-atomic/twentyseventeen",
+    "type": "wordpress-theme",
+    "description": "Wordpress Theme Inspiried from twentyseventeen",
+    "authors": [
+        {
+            "name": "ilhamsj",
+            "email": "ilhamsaputrajati@outlook.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
